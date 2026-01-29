@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "Parallax-Based Veto Filter (Planet Nine shell search) — Reference Simulation"
+message: "If you use this software, please cite the associated manuscript."
+type: software
+authors:
+  - family-names: "Ko"
+    given-names: "Changsoo"
+date-released: 2026-01-29
+version: 0.1.0
+license: MIT
